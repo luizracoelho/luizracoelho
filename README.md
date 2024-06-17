@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![Luiz Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizracoelho&show_icons=true&theme=github_dark_dimmed)](https://github.com/luizracoelho)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizracoelho&show_icons=true&theme=github_dark_dimmed)](https://github.com/luizracoelho)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizracoelho&show_icons=true&theme=github_dark_dimmed&hide_progress=true)](https://github.com/luizracoelho)
