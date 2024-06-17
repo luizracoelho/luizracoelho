@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Luiz Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizracoelho&show_icons=true&theme=oneadrk)](https://github.com/luizracoelho)
+[![Luiz Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizracoelho&show_icons=true&theme=github_dark_dimmed)](https://github.com/luizracoelho)
