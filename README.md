@@ -1,4 +1,4 @@
-# Luiz Coelho - Desenvolvedor de Software
+# Luiz Coelho
 
 Bem-vindo ao meu repositório GitHub! Sou Luiz Coelho, desenvolvedor de software especializado em C# .Net, Angular e React. 
 Tenho um grande interesse em tecnologias emergentes, como por exemplo, Inteligência Artificial e atualmente ocupo a posição de CTO. 
@@ -16,9 +16,9 @@ Tenho um grande interesse em tecnologias emergentes, como por exemplo, Inteligê
 - **Cargo Atual:** CTO (Chief Technology Officer)
 - **Interesses:** Tecnologia aplicada a negócios, inteligência artificial, business analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizracoelho&show_icons=true&theme=github_dark_dimmed&layout=compact)](https://github.com/luizracoelho)
-
 [![Luiz Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizracoelho&show_icons=true&theme=github_dark_dimmed)](https://github.com/luizracoelho)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizracoelho&show_icons=true&theme=github_dark_dimmed&layout=compact)](https://github.com/luizracoelho)
 
 ## Contato
 
